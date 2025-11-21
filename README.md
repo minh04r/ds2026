@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
-* Student Group ID: Not-for-now
+* Student Name: Bùi Đình Nguyễn Minh
+* Student ID: 22BA13214
+* Student Group ID: 
